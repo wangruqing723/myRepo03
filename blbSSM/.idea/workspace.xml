@@ -6,7 +6,47 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e8ed1e9c-8bde-4083-9e46-f562336c65e8" name="Default Changelist" comment="将demo1推送" />
+    <list default="true" id="e8ed1e9c-8bde-4083-9e46-f562336c65e8" name="Default Changelist" comment="将demo1推送">
+      <change afterPath="$PROJECT_DIR$/demo1/src/main/java/com/wy/beans/demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/target/classes/com/wy/dao/IUserDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo1/target/test-classes/com/wy/test/TestMybatis.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/META-INF/demo2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/com/wy/beans/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/com/wy/dao/IUserInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/com/wy/dao/IUserInfoDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/com/wy/service/IUserInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/com/wy/service/Impl/UserInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/com/wy/web/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/META-INF/MANIFEST.MF" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/META-INF/demo2.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/SqlMapConfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/com/wy/beans/UserInfo.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/com/wy/dao/IUserInfoDao.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/com/wy/dao/IUserInfoDao.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/com/wy/service/IUserInfoService.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/com/wy/service/Impl/UserInfoServiceImpl.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/com/wy/web/LoginServlet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/classes/log4j.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/hamcrest-core-1.3.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/javax.servlet-api-3.1.0.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/jsp-api-2.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/jstl-1.2.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/junit-4.12.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/log4j-1.2.17.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/mybatis-3.4.6.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/mysql-connector-java-5.1.39.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/lib/servlet-api-2.5.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/WEB-INF/web.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/index.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/demo2/target/demo2/login.jsp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/blbSSM.kotlin_module" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/target/test-classes/META-INF/blbSSM.kotlin_module" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/demo2/target/" />
@@ -58,14 +98,33 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/wy/test/TestMybatis.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="118">
-              <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="20" />
+            <state relative-caret-position="272">
+              <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
               <folding>
                 <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/wy/beans/demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="484">
+              <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+              <folding>
+                <element signature="e#181#182#0" expanded="true" />
+                <element signature="e#212#213#0" expanded="true" />
+                <element signature="e#260#261#0" expanded="true" />
+                <element signature="e#300#301#0" expanded="true" />
+                <element signature="e#335#336#0" expanded="true" />
+                <element signature="e#366#367#0" expanded="true" />
+                <element signature="e#414#415#0" expanded="true" />
+                <element signature="e#454#455#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -77,8 +136,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Jsp File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -119,6 +178,7 @@
         <option value="$PROJECT_DIR$/demo2/src/main/webapp/index.jsp" />
         <option value="$PROJECT_DIR$/demo2/pom.xml" />
         <option value="$PROJECT_DIR$/demo1/src/test/java/com/wy/test/TestMybatis.java" />
+        <option value="$PROJECT_DIR$/demo1/src/main/java/com/wy/beans/demo.java" />
       </list>
     </option>
   </component>
@@ -162,11 +222,78 @@
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
     <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="true" />
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wy" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wy" type="462c0819:PsiDirectoryNode" />
+              <item name="beans" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="blbSSM" type="b2602c69:ProjectViewProjectNode" />
+              <item name="blbSSM" type="462c0819:PsiDirectoryNode" />
+              <item name="demo1" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="wy" type="462c0819:PsiDirectoryNode" />
+              <item name="dao" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
-      <pane id="ProjectPane" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -375,6 +502,7 @@
       <workItem from="1574822560913" duration="22000" />
       <workItem from="1576035413678" duration="16000" />
       <workItem from="1576467754335" duration="423000" />
+      <workItem from="1576468179278" duration="1170000" />
     </task>
     <task id="LOCAL-00001" summary="将demo1推送">
       <created>1576467886802</created>
@@ -383,7 +511,21 @@
       <option name="project" value="LOCAL" />
       <updated>1576467886802</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="将demo1推送">
+      <created>1576468259992</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576468259992</updated>
+    </task>
+    <task id="LOCAL-00003" summary="将demo1推送&#10;将demo2推送">
+      <created>1576468982245</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1576468982245</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -416,13 +558,13 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="14320000" />
+    <option name="totallyTimeSpent" value="15490000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1319" height="784" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.26883426" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49919486" visible="true" weight="0.27279937" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -463,7 +605,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="将demo1推送" />
-    <option name="LAST_COMMIT_MESSAGE" value="将demo1推送" />
+    <MESSAGE value="将demo1推送&#10;将demo2推送" />
+    <option name="LAST_COMMIT_MESSAGE" value="将demo1推送&#10;将demo2推送" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
@@ -656,10 +799,27 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/demo1/src/test/java/com/wy/test/TestMybatis.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="118">
-          <caret line="40" column="19" lean-forward="true" selection-start-line="40" selection-start-column="19" selection-end-line="40" selection-end-column="20" />
+        <state relative-caret-position="272">
+          <caret line="29" column="23" selection-start-line="29" selection-start-column="23" selection-end-line="29" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/demo1/src/main/java/com/wy/beans/demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="28" column="18" selection-start-line="28" selection-start-column="18" selection-end-line="28" selection-end-column="18" />
+          <folding>
+            <element signature="e#181#182#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#260#261#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+            <element signature="e#335#336#0" expanded="true" />
+            <element signature="e#366#367#0" expanded="true" />
+            <element signature="e#414#415#0" expanded="true" />
+            <element signature="e#454#455#0" expanded="true" />
           </folding>
         </state>
       </provider>
